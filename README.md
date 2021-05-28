@@ -1,7 +1,6 @@
 
 <HTML>
-<HEAD> <TITLE>Activity - Insert animated GIF to HTML</TITLE> </HEAD>
 <BODY>
-  <IMG SRC="https://im4.ezgif.com/tmp/ezgif-4-feb9b0f50257.gif">
+  <IMG SRC="https://cdn.dribbble.com/users/400493/screenshots/2942562/krue_stickets_set02_ae_01.gif">
 </BODY>
 </HTML>
