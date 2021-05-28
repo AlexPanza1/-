@@ -1,1 +1,7 @@
-<a href="https://ibb.co/hVdcQFm"><img src="https://i.ibb.co/sq1Cx9V/loader.gif" alt="loader" border="0"></a>
+
+<HTML>
+<HEAD> <TITLE>Activity - Insert animated GIF to HTML</TITLE> </HEAD>
+<BODY>
+  <IMG SRC="https://im4.ezgif.com/tmp/ezgif-4-28cb55069f8b.gif">
+</BODY>
+</HTML>
